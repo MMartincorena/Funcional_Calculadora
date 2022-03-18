@@ -7,7 +7,7 @@ const resta = (a,b) => {
 }
 
 function rango(inicio, fin, valor) {
-    return (new Array(fin - inicio + 1)).fill(undefined).map((_) => value);
+    return (new Array(fin - inicio + 1)).fill(undefined).map((_) => valor);
 }
 
 const multiplicacion = (a,b) => {
